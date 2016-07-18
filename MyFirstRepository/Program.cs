@@ -11,6 +11,7 @@ namespace MyFirstRepository
         static void Main(string[] args)
         {
             /*This is my first repo on GitHub*/
+            Console.WriteLine("Hello GitHub!..");
         }
     }
 }
